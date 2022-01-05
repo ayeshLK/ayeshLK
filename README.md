@@ -21,6 +21,11 @@ Apart from coding, I maintain a blog. You could find my articles [@medium](https
 #### 📕 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Control Structures in Ballerina](https://ayesh9303.medium.com/control-structures-in-ballerina-d13c288fe301?source=rss-3b4546c4c9c5------2)
+- [Ballerina: Behavioral Types](https://blog.devgenius.io/ballerina-behavioral-types-bac73fe48a87?source=rss-3b4546c4c9c5------2)
+- [Spring MVC : The Framework — Part 2](https://ayesh9303.medium.com/spring-mvc-the-framework-part-2-6776db8063ae?source=rss-3b4546c4c9c5------2)
+- [Spring MVC : The Framework — Part 1](https://ayesh9303.medium.com/spring-mvc-the-framework-part-1-f5026568795e?source=rss-3b4546c4c9c5------2)
+- [All you need to know in GIT Branching](https://ayesh9303.medium.com/all-you-need-to-know-in-git-branching-2a8b6e2da83?source=rss-3b4546c4c9c5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align='left'> ▶️ Catch me on </h2>
