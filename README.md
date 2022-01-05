@@ -14,7 +14,7 @@ I am Ayesh, Programmer and a Blogger.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayeshLK&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ayesh's GitHub Stats" />
 </a>
 
-<h2 align='left'> &#x270d; Blog & Writing </h2>
+<h2 align='left'> &#x270d; Blogs & Writings </h2>
 
 Apart from coding, I maintain a blog. You could find my articles [@medium](https://ayesh9303.medium.com/).
 
