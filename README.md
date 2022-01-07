@@ -1,4 +1,4 @@
-<h1 align='left'> Hello, Folks :wave:</h1>
+<h1 align='left'> Hey, Folks :wave:</h1>
 
 I am Ayesh, Programmer and a Blogger.
 - 🔭 I’m currently working on [@Ballerina Lang](https://ballerina.io/)
