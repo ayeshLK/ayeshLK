@@ -21,7 +21,7 @@ Apart from coding, I maintain a blog. You could find my articles [@medium](https
 #### 📕 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ballerina Collections: Tables](https://ayesh9303.medium.com/ballerina-collections-tables-f4a0711085f7?source=rss-3b4546c4c9c5------2)
+- [Ballerina Collections: Tables](https://medium.com/ballerina-techblog/ballerina-collections-tables-f4a0711085f7?source=rss-3b4546c4c9c5------2)
 - [Ballerina Collections: Arrays &amp; Maps](https://ayesh9303.medium.com/ballerina-collections-arrays-maps-9df17186b5a1?source=rss-3b4546c4c9c5------2)
 - [Basic Algorithms using Ballerina](https://medium.com/ballerina-techblog/basic-algorithms-using-ballerina-908fe8d320a5?source=rss-3b4546c4c9c5------2)
 - [Control Structures in Ballerina](https://ayesh9303.medium.com/control-structures-in-ballerina-d13c288fe301?source=rss-3b4546c4c9c5------2)
