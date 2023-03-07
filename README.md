@@ -1,8 +1,9 @@
 <h1 align='left'> Hey, Folks :wave:</h1>
 
 I am Ayesh, Programmer and a Blogger.
-- 🔭 I’m currently working on [@Ballerina Lang](https://ballerina.io/)
-- 🌱 I’m interested in Cloud Native Application Development
+- 🔭 I’m currently working on [@Ballerina Lang](https://ballerina.io/).
+- 🌱 I’m interested in Cloud Native Application Development.
+- 🌼 I'm in love with Event Driven Architectures.
 
 <h2 align='left'> :chart_with_upwards_trend: GitHub Stats </h2>
 
