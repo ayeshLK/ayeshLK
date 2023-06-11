@@ -22,11 +22,11 @@ Apart from coding, I maintain a blog. You could find my articles [@medium](https
 #### 📕 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The silent struggle: unraveling the hidden enemy](https://ayesh9303.medium.com/the-silent-struggle-unraveling-the-hidden-enemy-2ab97df914f6?source=rss-3b4546c4c9c5------2)
 - [Learning Websub &lpar;Part 4&rpar; : Connecting a Message Broker](https://ayesh9303.medium.com/learning-websub-part-4-connecting-a-message-broker-3871e8d933f0?source=rss-3b4546c4c9c5------2)
 - [Learning Websub &lpar;Part 3&rpar; : Integrating OpenWeatherMap API](https://ayesh9303.medium.com/learning-websub-part-3-integrating-openweathermap-api-fd82293f206c?source=rss-3b4546c4c9c5------2)
 - [Learning WebSub &lpar;Part 2&rpar; : Building a WebSub `hub` using Ballerina](https://ayesh9303.medium.com/learning-websub-part-2-building-a-websub-hub-using-ballerina-e9cff35becba?source=rss-3b4546c4c9c5------2)
 - [Learning WebSub &lpar;Part 1&rpar; : Introduction to WebSub](https://ayesh9303.medium.com/learning-websub-part-1-introduction-to-websub-94ee99a09a70?source=rss-3b4546c4c9c5------2)
-- [Ballerina Collections: Tables](https://medium.com/ballerina-techblog/ballerina-collections-tables-f4a0711085f7?source=rss-3b4546c4c9c5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align='left'> ▶️ Catch me on </h2>
