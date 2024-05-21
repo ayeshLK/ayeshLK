@@ -22,11 +22,11 @@ Apart from coding, I maintain a blog. You could find my articles [@medium](https
 #### 📕 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [15 minute cycle: art of soothing](https://ayesh9303.medium.com/15-minute-cycle-art-of-soothing-713ce190b37d?source=rss-3b4546c4c9c5------2)
-- [The silent struggle: unraveling the hidden enemy](https://ayesh9303.medium.com/the-silent-struggle-unraveling-the-hidden-enemy-2ab97df914f6?source=rss-3b4546c4c9c5------2)
-- [Learning Websub &lpar;Part 4&rpar; : Connecting a Message Broker](https://ayesh9303.medium.com/learning-websub-part-4-connecting-a-message-broker-3871e8d933f0?source=rss-3b4546c4c9c5------2)
-- [Learning Websub &lpar;Part 3&rpar; : Integrating OpenWeatherMap API](https://ayesh9303.medium.com/learning-websub-part-3-integrating-openweathermap-api-fd82293f206c?source=rss-3b4546c4c9c5------2)
-- [Learning WebSub &lpar;Part 2&rpar; : Building a WebSub `hub` using Ballerina](https://ayesh9303.medium.com/learning-websub-part-2-building-a-websub-hub-using-ballerina-e9cff35becba?source=rss-3b4546c4c9c5------2)
+- [JMS with Ballerina lang: Part 5](https://ayesh9303.medium.com/jms-with-ballerina-lang-part-5-074d7cd72abd?source=rss-3b4546c4c9c5------2)
+- [JMS with Ballerina lang: Part 4](https://ayesh9303.medium.com/jms-with-ballerina-lang-part-4-6db2d4281069?source=rss-3b4546c4c9c5------2)
+- [JMS with Ballerina lang: Part 3](https://ayesh9303.medium.com/jms-with-ballerina-lang-part-3-276e42709860?source=rss-3b4546c4c9c5------2)
+- [JMS with Ballerina lang: Part 2](https://ayesh9303.medium.com/jms-with-ballerina-lang-part-2-8cd8c6b46572?source=rss-3b4546c4c9c5------2)
+- [Ballerina lang with JMS: Part 1](https://ayesh9303.medium.com/ballerina-lang-with-jms-part-1-e7778d7ba619?source=rss-3b4546c4c9c5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align='left'> ▶️ Catch me on </h2>
