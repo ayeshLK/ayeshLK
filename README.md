@@ -26,7 +26,7 @@ Apart from coding, I maintain a blog. You could find my articles [@medium](https
 - [JMS with Ballerina lang: Part 5](https://ayesh9303.medium.com/jms-with-ballerina-lang-part-5-074d7cd72abd?source=rss-3b4546c4c9c5------2)
 - [JMS with Ballerina lang: Part 4](https://ayesh9303.medium.com/jms-with-ballerina-lang-part-4-6db2d4281069?source=rss-3b4546c4c9c5------2)
 - [JMS with Ballerina lang: Part 3](https://ayesh9303.medium.com/jms-with-ballerina-lang-part-3-276e42709860?source=rss-3b4546c4c9c5------2)
-- [JMS with Ballerina lang: Part 2](https://ayesh9303.medium.com/jms-with-ballerina-lang-part-2-8cd8c6b46572?source=rss-3b4546c4c9c5------2)
+- [JMS with Ballerina lang: Part 2](https://medium.com/ballerina-techblog/jms-with-ballerina-lang-part-2-8cd8c6b46572?source=rss-3b4546c4c9c5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align='left'> ▶️ Catch me on </h2>
