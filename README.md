@@ -21,7 +21,7 @@ I am Ayesh, Programmer and a Blogger.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayeshLK&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ayesh's GitHub Stats" />
 </a>
 
-<h2 align='left'> &#x270d; Languages and Tools </h2>
+<h2 align='left'> &#128736; Languages and Tools </h2>
 
 <div style="display: flex; align-items: flex-start;">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
