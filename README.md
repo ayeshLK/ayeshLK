@@ -1,9 +1,15 @@
 <h1 align='left'> Hey, Folks :wave:</h1>
 
 I am Ayesh, Programmer and a Blogger.
-- 🔭 I’m currently working on [@Ballerina Lang](https://ballerina.io/).
+- 🔭 I’m a Lead Developer at [@Ballerina Lang](https://ballerina.io/).
 - 🌱 I’m interested in Cloud Native Application Development.
 - 🌼 I'm in love with Event Driven Architectures.
+
+<div div style="display: flex; align-items: flex-start;">
+  <img src="https://komarev.com/ghpvc/?username=ayeshLK&label=Profile%20views&color=0e75b6&style=flat" alt="Ayesh Almeida" /> 
+  <!-- <img src="https://user-badge.committers.top/sri_lanka_public/ayeshLK.svg" alt="Ayesh Almeida" />  -->
+  <img src="https://img.shields.io/github/followers/ayeshLK?label=Follow&style=social" alt="Ayesh Almeida" />
+</div>
 
 <h2 align='left'> :chart_with_upwards_trend: GitHub Stats </h2>
 
@@ -14,6 +20,17 @@ I am Ayesh, Programmer and a Blogger.
 <a href="https://github.com/ayeshLK/ayeshLK">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayeshLK&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ayesh's GitHub Stats" />
 </a>
+
+<h2 align='left'> &#x270d; Languages and Tools </h2>
+
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+</div>
 
 <h2 align='left'> &#x270d; Blogs & Writings </h2>
 
