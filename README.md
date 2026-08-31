@@ -1,7 +1,7 @@
 <h1 align='left'> Hey, Folks :wave:</h1>
 
 I am Ayesh, Programmer and a Blogger.
-- 🔭 I’m a Lead Developer at [Ballerina Platform](https://ballerina.io/).
+- 🔭 I’m a Forward Deployed Engineer at [WSO2](https://wso2.com/).
 - 🌱 I’m interested in Cloud Native Application Development.
 - 🌼 I'm in love with Event Driven Architectures.
 
